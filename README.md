@@ -18,6 +18,8 @@ Gehe nach der Lektüre die Übersicht der verfügbaren Tags in HTML bei W3School
 ### An exercise
 In this chapter we covered a raft of HTML elements. We didn't cover them all, but we certainly covered all the elements you are likely to need day to day. I think you're ready to try a little exercise to see how much you have understood. Here is a screenshot of the site design used to create the website for this book:
 
+Inline-style:
+![alt text](/Users/oeni/Documents/FFHS/GitHub/WebF-01-01/repo/res/Screenshot-website_Book.png "Logo Title Text 1")
 
 
 
