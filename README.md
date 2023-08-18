@@ -24,3 +24,6 @@ In this chapter we covered a raft of HTML elements. We didn't cover them all, bu
 Take a look at the design to try and create an HTML page for it. Consider the head section and what you need in there. Think about the language the content is in and any meta tags you might need. Then think about the visuals themselves. What might be the best elements to use to create the navigation section? Or each of those little sections below the book image? And what about that **DOWNLOAD CODE** box; any ideas how you might mark that up?
 
 [...]
+
+
+Check!
