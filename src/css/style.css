@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+.Nav {
+    text-align: center;
+    border-bottom: 8px double #f9f9f9;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+}
+
+.box {
+    float: left;
+    width: 32%;
+    margin-right: 2%;
+    padding: 20px;
+    background: #eee;
+    box-sizing: border-box;
+}
+.box:last-child
+{
+    margin-right: 0;
+}
+
+body {
+    padding: 1rem 0.5rem;
+    font-size: 1.3rem;
+    line-height: 1.2;
+    max-width: 60rem;
+    margin: 0 auto;
+    color: #333;
+}
+
+.LogoWrapper {
+    display: block;
+}

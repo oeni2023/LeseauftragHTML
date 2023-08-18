@@ -19,6 +19,11 @@ Gehe nach der Lektüre die Übersicht der verfügbaren Tags in HTML bei W3School
 In this chapter we covered a raft of HTML elements. We didn't cover them all, but we certainly covered all the elements you are likely to need day to day. I think you're ready to try a little exercise to see how much you have understood. Here is a screenshot of the site design used to create the website for this book:
 
 
+![alt text](/Users/oeni/Documents/FFHS/GitHub/WebF-01-01/repo/res/Screenshot-website_Book.png "Logo Title Text 1")
 
+Take a look at the design to try and create an HTML page for it. Consider the head section and what you need in there. Think about the language the content is in and any meta tags you might need. Then think about the visuals themselves. What might be the best elements to use to create the navigation section? Or each of those little sections below the book image? And what about that **DOWNLOAD CODE** box; any ideas how you might mark that up?
 
 [...]
+
+
+Check!
